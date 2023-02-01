@@ -1,6 +1,6 @@
 
-<!--<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png"> -->
-[![MasterHead](<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png">)]
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png"> 
+
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 
