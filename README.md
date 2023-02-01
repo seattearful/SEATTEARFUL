@@ -1,5 +1,6 @@
 
-<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png">
+<!--<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png"> -->
+[![MasterHead](<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png">)]
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 
@@ -15,7 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/alexx.ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexx.ts" height="30" width="40" /></a>
 </p>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif"
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
