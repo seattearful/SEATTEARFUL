@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="845" alt="image" src="https://user-images.githubusercontent.com/101045414/216055103-785f7085-2da6-4101-ade8-c2b02296a1e9.png">
 
 <!--
 **seattearful/SEATTEARFUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
