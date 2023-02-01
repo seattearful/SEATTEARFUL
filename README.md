@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seattearful&label=Profile%20views&color=0e75b6&style=flat" alt="seattearful" /> </p>
 
 - 🌱 I’m currently learning **Phyton**
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif](https://pin.it/3Xrd2eG)">
+<img align="right" alt="Coding" width="550" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d5e0d2114404249.603a926c870b2.gif">
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **Alex.tayts87@gmail.com**
