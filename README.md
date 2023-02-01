@@ -1,5 +1,5 @@
 
-<img width="1056" alt="image" src="https://user-images.githubusercontent.com/101045414/216056288-0f68772d-74cf-468a-91f7-853955385c06.png">
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216056630-d70711bc-92e5-431f-8236-f5b635f7ecfc.png">
 
 <!--
 **seattearful/SEATTEARFUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
