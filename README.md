@@ -1,5 +1,5 @@
 
-<img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png"> 
+
 
 <h1 align="center">Hi 🖖🏼, I'm Alexander</h1>
 <h3 align="center">A passionate novice backend developer from Israel</h3>
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seattearful&label=Profile%20views&color=0e75b6&style=flat" alt="seattearful" /> </p>
 
 - 🌱 I’m currently learning **Phyton**
-<img align="right" alt="Coding" width="550" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d5e0d2114404249.603a926c870b2.gif">
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **Alex.tayts87@gmail.com**
