@@ -2,7 +2,7 @@
 <img width="894" alt="image" src="https://user-images.githubusercontent.com/101045414/216057496-9398af0b-cf9d-4516-a2d4-0c9cf037ea28.png"> 
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate backend developer from Israel</h3>
+<h3 align="center">A passionate novice backend developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seattearful&label=Profile%20views&color=0e75b6&style=flat" alt="seattearful" /> </p>
 
