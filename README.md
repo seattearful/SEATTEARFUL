@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seattearful&label=Profile%20views&color=0e75b6&style=flat" alt="seattearful" /> </p>
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Phyton, Git, Computer Networking**
 
 - 💬 Ask me about **Java**
 
